@@ -2,11 +2,12 @@
 ## Personal Mobile App Project Final 
 ## RPS-game
 ##  Team 30
-## Name: Surya Sarath Bharadwaj Pulla, Punith Reddy Dappili
-##
+## Name: 
+## 1 Surya Sarath Bharadwaj Pulla, 
+## 2 Punith Reddy Dappili
 
-In this code 
-This code we implements a simple Rock-Paper-Scissors game using React and React Native. Let's break down the key components and functionalities:
+
+In this code we implements a simple Rock-Paper-Scissors game using React and React Native. Let's break down the key components and functionalities:
 
 1. **useState:** React hooks are used to manage state within the functional component. Several states are initialized using the useState hook:
    - playerVal: Stores the player's chosen value (Rock, Paper, or Scissors).
