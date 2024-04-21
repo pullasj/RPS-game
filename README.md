@@ -17,7 +17,14 @@ To enhance user experience, the app provides a convenient "New Game" button posi
 
 Complementing the functional aspects of the app is its aesthetic appeal, achieved through meticulous styling. The color scheme, typography, and layout are carefully crafted to provide a visually pleasing experience while maintaining clarity and readability, ensuring that users can focus on the excitement of the game without distraction.
 
+1. Game screenshot
+
 [images/1.jpeg](images/1.jpeg)
+
+2. New game screenshot
+
+[images/2.jpeg](images/2.jpeg)
+
 
 ## code explanation 
 file: [App.js](App.js)
