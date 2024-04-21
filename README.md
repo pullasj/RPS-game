@@ -16,7 +16,9 @@ Directly below the choices, you'll find essential information about the current 
 To enhance user experience, the app provides a convenient "New Game" button positioned at the bottom. This button allows you to reset the game at any time, clearing all previous choices and scores and offering a fresh start for a new round of gameplay.
 
 Complementing the functional aspects of the app is its aesthetic appeal, achieved through meticulous styling. The color scheme, typography, and layout are carefully crafted to provide a visually pleasing experience while maintaining clarity and readability, ensuring that users can focus on the excitement of the game without distraction.
-[images/1.jpeg]
+
+[images/1.jpeg](images/1.jpeg)
+
 ## code explanation 
 file: [App.js](App.js)
 In this code we implements a simple Rock-Paper-Scissors game using React and React Native. 
