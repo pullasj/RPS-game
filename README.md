@@ -3,9 +3,9 @@
 ## RPS-game
 ##  Team 30
 Name: 
-**1 Surya Sarath Bharadwaj Pulla, 
+1 Surya Sarath Bharadwaj Pulla, 
 2 Punith Reddy Dappili
-**
+
 ## APP desciption
 Upon launching the mobile app, you'll be greeted by a sleek interface featuring the title "RPS Game" prominently displayed at the top. Below the title, neatly arranged in a row, are three buttons: "Rock", "Paper", and "Scissors". These buttons serve as the player's interface to make their move in the game.
 
