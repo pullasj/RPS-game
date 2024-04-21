@@ -31,4 +31,3 @@ This code we implements a simple Rock-Paper-Scissors game using React and React 
 
 7. **Styles:** Styles are defined using the StyleSheet.create method to define the appearance of various components such as text, buttons, and containers.
 
-Overall, this code creates a functional Rock-Paper-Scissors game with React Native, allowing the player to make choices and keeping track of scores.
