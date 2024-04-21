@@ -6,7 +6,7 @@
 ## 1 Surya Sarath Bharadwaj Pulla, 
 ## 2 Punith Reddy Dappili
 
-[app.js](app.js)
+file: [App.js](App.js)
 In this code we implements a simple Rock-Paper-Scissors game using React and React Native. Let's break down the key components and functionalities:
 
 1. **useState:** React hooks are used to manage state within the functional component. Several states are initialized using the useState hook:
