@@ -19,11 +19,11 @@ Complementing the functional aspects of the app is its aesthetic appeal, achieve
 
 1. Game screenshot
 
-[images/1.jpeg](images/1.jpeg)
+![images/1.jpeg](images/1.jpeg)
 
 2. New game screenshot
 
-[images/2.jpeg](images/2.jpeg)
+![images/2.jpeg](images/2.jpeg)
 
 
 ## code explanation 
